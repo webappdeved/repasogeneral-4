@@ -1,4 +1,4 @@
-# repasogeneral
+# repasogeneral (Corregir, ver ejemplos)
 
 ## Datos Institucionales y Academicos
 * Institucion: Escuela de Educacion Secundaria Tecnica N 1 (EEST N 1) "Eduardo Ader" - Vicente Lopez
