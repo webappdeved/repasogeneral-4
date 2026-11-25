@@ -1,7 +1,7 @@
 /* 
    ====================================================================
    Materia: Laboratorio de Programación (LPR) — 5°
-   Institución: E.E.S.T. N° 20 "Bangtan Sonyeondan" - Vicente López
+   Institución: E.E.S.T. N° 20 "Bangtan Sonyeondan" - Vicente López ?????
    Archivo: src/main.cpp
    Actividad 6: Suite de Taller de Repaso e Integración
    ====================================================================
@@ -17,7 +17,7 @@ void intercambiarValores(int* ptrA, int* ptrB);
 
 int main() {
     cout << "=====================================================" << endl;
-    cout << "  TALLER INTEGRADOR REPASO - ESTUDIANTE: Jung Kook " << endl;
+    cout << "  TALLER INTEGRADOR REPASO - ESTUDIANTE: Jung Kook " << endl; ???????
     cout << "=====================================================" << endl;
 
     // --- RETO 1: RECURSIVIDAD ---
