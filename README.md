@@ -47,7 +47,7 @@ El programa principal (src/main.cpp) ejecuta de forma modular una interfaz inter
 
 ---
 
-## Estructura del Repositorio
+## Estructura del Repositorio la estructura no esta bien mostraba en el repositorio
 
 repasogeneral/
 |-- .gitignore
